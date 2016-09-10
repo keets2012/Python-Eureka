@@ -1,4 +1,4 @@
-python-eureka
+python-eureka version - 2.1M
 =============
 
 The goal of this project is to provide an easy-to-use client interface to Eureka,
