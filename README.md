@@ -1,5 +1,11 @@
 python-eureka version - 2.1M
 =============
+Python client for Netflix Eureka https://github.com/Netflix/eureka/
+
+I upgrade based on https://github.com/KristianOellegaard/python-eureka.
+
+As KristianOellegaard's Eureka version is too old and not compatible with newer version.
+
 
 The goal of this project is to provide an easy-to-use client interface to Eureka,
 a middle-tier load balancer open sourced and used by Netflix.
